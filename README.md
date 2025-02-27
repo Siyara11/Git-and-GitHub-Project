@@ -1,2 +1,1 @@
-# Git-and-GitHub-Project
-The goal of this assignment is to provide with hands-on experience using Git and GitHub for version control. 
+This project is a demo to learn Git and GitHub. It includes basic Git commands, branching, and merging.
